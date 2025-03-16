@@ -16,7 +16,7 @@ const app = express();
 
 const PORT = 3000;
 
-const API_KEY ='AIzaSyBa1rUNG9UcKa4YZbrd7QLJlsYhIazG_z8';
+const API_KEY="API_KEY"';
 
 
 
